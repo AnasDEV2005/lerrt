@@ -9,3 +9,7 @@ chmod +x install.sh
 try it out
 ```
 lerrt
+```
+
+has some issues
+not gonna fix tho lol
