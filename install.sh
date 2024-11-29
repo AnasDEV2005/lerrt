@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Name of the executable
-EXECUTABLE_NAME="time-blocking-helper"
+EXECUTABLE_NAME="lerrt"
 
 # Build the executable (ensure Rust is installed)
 echo "Building the project..."
